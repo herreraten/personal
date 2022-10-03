@@ -4,7 +4,7 @@ public class App {
         int rideCount = 5;
 
         while (rideCount != 0) {
-            System.out.println("Woooooo!.. I can do this all day!");
+            System.out.println("Tenten Herrera");
             rideCount--;
         }
     }
